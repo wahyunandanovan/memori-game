@@ -5,4 +5,4 @@ game ini berfokus untuk mencari gambar gambar yang sama dan menguji kemampuan me
 
 # Demo
 
-Demo link https://vercel.com/wahyunandanovan/memori-game
+Demo link https://memori-game.vercel.app/
